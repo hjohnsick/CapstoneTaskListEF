@@ -152,6 +152,6 @@ C:\Users\hjohnsick\Desktop\GrandCircusLabs\EFCoreIdentityFramework\EFCoreIdentit
 C:\Users\hjohnsick\Desktop\GrandCircusLabs\EFCoreIdentityFramework\EFCoreIdentityFramework\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\hjohnsick\Desktop\GrandCircusLabs\EFCoreIdentityFramework\EFCoreIdentityFramework\obj\Debug\netcoreapp3.1\EFCoreIdentityFramework.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\hjohnsick\Desktop\GrandCircusLabs\EFCoreIdentityFramework\EFCoreIdentityFramework\obj\Debug\netcoreapp3.1\EFCoreIdentityFramework.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\hjohnsick\Desktop\GrandCircusLabs\EFCoreIdentityFramework\EFCoreIdentityFramework\obj\Debug\netcoreapp3.1\Razor\Views\Task\Index.cshtml.g.cs
 C:\Users\hjohnsick\Desktop\GrandCircusLabs\EFCoreIdentityFramework\EFCoreIdentityFramework\obj\Debug\netcoreapp3.1\Razor\Views\Tasks\AddTask.cshtml.g.cs
 C:\Users\hjohnsick\Desktop\GrandCircusLabs\EFCoreIdentityFramework\EFCoreIdentityFramework\obj\Debug\netcoreapp3.1\Razor\Views\Tasks\EditTasks.cshtml.g.cs
+C:\Users\hjohnsick\Desktop\GrandCircusLabs\EFCoreIdentityFramework\EFCoreIdentityFramework\obj\Debug\netcoreapp3.1\Razor\Views\Tasks\Index.cshtml.g.cs

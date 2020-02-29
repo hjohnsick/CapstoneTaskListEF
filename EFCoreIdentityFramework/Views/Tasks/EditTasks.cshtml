@@ -5,3 +5,13 @@
 
 <h1>Edit Tasks</h1>
 
+<form action="../Tasks/EditTasks" method="post" class="form-control-range">
+    <input type="hidden" name="Id" value="@Model.Id" />
+    <input type="text" name="TaskDescription" value="@Model.TaskDescription" />
+    <input type="text" name="DueDate" value="@Model.DueDate" />
+    Complete: <input type="radio" name="Complete" value="true" />
+    Not Complete: <input type="radio" name="Complete" value="false" />
+    @*Complete: <input type="radio" name="Complete" value="@Model.Complete" placeholder="@Model.Complete"/>*@
+    <input type="submit" value="Update" />
+</form>
+
